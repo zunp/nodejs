@@ -1,2 +1,2 @@
 # nodejs
-nodejs programs
+Herokuで使用するnodejsプログラム置き場
